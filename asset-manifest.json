@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/debanjankunti3/Tour.git/static/css/main.a4e59778.css",
+    "main.js": "/debanjankunti3/Tour.git/static/js/main.234926bf.js",
+    "static/js/787.63e47474.chunk.js": "/debanjankunti3/Tour.git/static/js/787.63e47474.chunk.js",
+    "static/media/travel.jpg": "/debanjankunti3/Tour.git/static/media/travel.6c25a0cf0a36416910c8.jpg",
+    "static/media/services.jpg": "/debanjankunti3/Tour.git/static/media/services.9c41f0a6af7b640a13d9.jpg",
+    "static/media/services2.jpg": "/debanjankunti3/Tour.git/static/media/services2.044f22a9e690efa282ae.jpg",
+    "static/media/contact.jpg": "/debanjankunti3/Tour.git/static/media/contact.6456148db1ae6d439f57.jpg",
+    "static/media/bus.jpg": "/debanjankunti3/Tour.git/static/media/bus.649757db0346178db8da.jpg",
+    "index.html": "/debanjankunti3/Tour.git/index.html",
+    "main.a4e59778.css.map": "/debanjankunti3/Tour.git/static/css/main.a4e59778.css.map",
+    "main.234926bf.js.map": "/debanjankunti3/Tour.git/static/js/main.234926bf.js.map",
+    "787.63e47474.chunk.js.map": "/debanjankunti3/Tour.git/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4e59778.css",
+    "static/js/main.234926bf.js"
+  ]
+}
