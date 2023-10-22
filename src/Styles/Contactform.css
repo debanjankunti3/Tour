@@ -1,0 +1,29 @@
+ .form-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 12px;
+}
+.form-container h1{
+    margin-bottom: 12px;
+}
+.form-container input{
+    width: 40vw;
+    margin: 12px;
+    padding: 12px;
+}
+.form-container label{
+    font-size: 1.5rem;
+} 
+/* .form-container form{
+    display: flex;
+    flex-direction: column;
+
+} */
+#submit{
+    padding: 5px;
+    width: 20vw;
+}
+.form-container{
+    background-image: url("https://source.unsplash.com/random/?contact/");
+    font-weight: bold;
+}
